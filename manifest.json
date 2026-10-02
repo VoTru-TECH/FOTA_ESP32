@@ -5,7 +5,7 @@
       "version": "1.0.0",
       "date": "2024-10-02",
       "notes": "Hỗ trợ 7 dòng xe: KIA/Hyundai Classic, Santafe 2021, Palisade, Mazda CX-5, Ford Everest/Ranger, Mitsubishi, Peugeot 5008",
-      "url": "https://raw.githubusercontent.com/YOUR_USER/sp32-firmware/main/v1.0.0/firmware.bin"
+      "url": "https://raw.githubusercontent.com/VoTru-TECH/FOTA_ESP32/main/v.1.0.0/firmware.bin"
     }
   ]
 }
