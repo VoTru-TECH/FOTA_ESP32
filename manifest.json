@@ -1,6 +1,12 @@
 {
-  "current": "1.0.0",
+  "current": "1.1.0",
   "versions": [
+    {
+      "version": "1.1.0",
+      "date": "2026-10-04",
+      "notes": "Bản test LED nháy 4s & tối ưu kết nối Web Bluetooth",
+      "url": "https://raw.githubusercontent.com/VoTru-TECH/FOTA_ESP32/main/v.1.1.0/firmware.bin"
+    },
     {
       "version": "1.0.0",
       "date": "2024-10-02",
